@@ -12,13 +12,17 @@ This is a community for like-minded individuals, passionate about ethereum and t
 
 Go to https://github.com/ethereumbuilders and browse through the organizational repos. In there you can find the various areas this community has. See which one resonates best with you and then add to the conversation! 
 
-# Support the initiatives and applications you'd like to see built!
+## Support the initiatives and applications you'd like to see built!
 
 - [ ] Connect your GitHub account with https://www.changetip.com/tip-online/github
 * Go to https://github.com/ethereumbuilders/ideas#boards for concepts in idea stages
 * Go to https://github.com/ethereumbuilders/proposals#boards for concepts in proposal stages
 * Go to https://github.com/ethereumbuilders/projects#boards for concepts in development stages
 - [ ] You can reward programmers for their effort by simply mentioning their @username in a comment together with @changetip and the specific amount that you want to send. For example "@changetip send 0.01 BTC to @username".
+
+## Accelerate the creation of content and documentation that matters to you!
+
+Either via tips or bounties you can incentivize the creation of the content (blogpost, screencast, tutorial) or documentation for the applications and topics that excite you! You're now a co-creator of a new _Internet_, through GitHub a browser extension and Bitcoin. How cool is that? 
 
 ## Tips 
 
