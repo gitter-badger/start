@@ -41,6 +41,8 @@ Bounties are an excellent way to get things done. Make sure to follow the format
 - [ ] The description of the task should list the requirements as clear as possible in order to avoid confusion
 - [x] Create checklists by typing "- [ ]" at the begining of your sentences. You can mark them as done by inserting an X (i.e. - [X]) in order to track the progress in an easy way. 
 
+More info on tasklists: https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments
+
 ### How to pay the bounties
 
 - [ ] At delivery, mention the @username in a comment together with @changetip and the specific amount that you want to send. For example "@changetip send 0.01 BTC to @username".
