@@ -33,21 +33,3 @@ Go to https://github.com/ethereumbuilders and browse through the organizational 
 
 ### How to pay the bounties
 - [ ] Reward programmers for their effort by simply mentioning their @username in a comment together with @changetip and the specific amount that you want to send. For example "@changetip send 0.01 BTC to @username".
-
-## Proposal structure
-
-Go to https://github.com/ethereumbuilders/proposals#boards and create an issue in the "new" column with the name of your proposal.
-
-*The proposals should be descriptive and contain the following elements:*
-- [ ] Why this idea?
-- [ ] How does this idea adds to the ethereum ecosystem?
-- [ ] Who benefits from this idea?
-- [ ] Proposal members
-- [ ] Roadmap
-- [ ] Budget
-- [ ] People & skills needed
-- [ ] Sustainability (monetization, business model if any, etc)
-
-### Micro crowdfunding 
-
-List an address, prefferably a multisig address that is shared among at least 3 members with a 2 out of 3 policy. 
