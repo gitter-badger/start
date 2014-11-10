@@ -32,6 +32,8 @@ A token of appreciation goes a long way! Mention the lucky @username in a commen
 
 Bounties are an excellent way to get things done. Make sure to follow the format bellow for easy visibility. 
 
+Here's an article showing how an integration between a different (but similar) product and github works for bounties: http://blog.bountysource.com/post/89776164469/waffle-bountysource-attracting-open-source-community . Will make our own example soon.
+
 ### How to create bounties
 
 - [ ] Connect your GitHub account with https://www.changetip.com/tip-online/github
