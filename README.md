@@ -1,6 +1,6 @@
 Welcome home, ethereum builder!
 =====
-This is a community for like-minded individuals, passionate about ethereum and the possibilities it opens. This is a community for people like you, that like to create and experiment. You are welcome to experiment here, so throw your craziest of ideas on [our ideas board](https://github.com/ethereumbuilders/ideas#boards "ethereum.builders/ideas") *_after_* following the quick start guide bellow.
+This is a community for like-minded individuals, passionate about ethereum and the possibilities it opens. This is a community for people like you, that like to create and experiment. You are welcome to experiment here, so throw your craziest of ideas on the boards __after__ following the quick start guide bellow.
 
 ## Quick start
 
@@ -12,7 +12,7 @@ Here's how you can transform your usual GitHub account into a powerful project m
 * You can check if everything went okay by checking [your Github application settings](https://github.com/settings/applications). You should see ZenHub as one of the authorized applications.
 
 
-*Please note that you _need_ to install the zenhub extension in order to view and use GitHub as described in this guide. 
+*Please note that you __need__ to install the zenhub extension in order to view and use GitHub as described in this guide. 
 
 ## Support the initiatives and applications you'd like to see built!
 
@@ -28,14 +28,16 @@ Here's how to get you started:
 
 **3.** Enjoy the warm, fuzzy feeling for contributing to something that matters to you.
 
-## Where?
+That's it, you're set. Let's get to the next step.
+
+## Where's stuff happening?
 
 * Go to [the ideas board](https://github.com/ethereumbuilders/ideas#boards "ethereum.builders/ideas") for concepts in idea stages
 * Go to [the proposal board](https://github.com/ethereumbuilders/proposals#boards "ethereum.builders/proposals") for concepts in proposal stages
 * Go to [our projects board](https://github.com/ethereumbuilders/projects#boards "ethereum.builders/projects") for concepts in development stages
 
 
-### Accelerate the creation of content and documentation
+### Accelerate the creation of **quality** content and documentation
 
 Either via tips or bounties you can incentivize the creation of the content (blogpost, screencast, tutorial) or documentation for the applications and topics that excite you! You're now a co-creator of a new _Internet_, through GitHub, a browser extension and Bitcoin. How cool is that? 
 
@@ -43,7 +45,7 @@ Either via tips or bounties you can incentivize the creation of the content (blo
 
 Bounties are an excellent way to get things done. Make sure to follow the format bellow for easy visibility. 
 
-Here's an article showing how an integration between a different (but similar) product and github works for bounties: http://blog.bountysource.com/post/89776164469/waffle-bountysource-attracting-open-source-community . Will make our own example soon.
+Here's an [article](http://blog.bountysource.com/post/89776164469/waffle-bountysource-attracting-open-source-community ) showing how an integration between a different (but similar) product and github works for bounties. Will make our own example soon.
 
 ### How to create bounties
 
