@@ -41,17 +41,27 @@ Here's how to get you started:
 
 **3.** Enjoy the warm, fuzzy feeling for contributing to something world-changing :)
 
-
 That's it, you're set. Let's get to the next step.
 
-### Step three. Create, contribute or support! GitHub is your playing ground.
+### Step three. Ideate, co-create and support! GitHub is your playing ground.
+
+##### Ideate
+
+* [DAPP idea template](https://github.com/ethereumbuilders/ideas/wiki/DAPP-idea-template) 
+* [DAO idea template](https://github.com/ethereumbuilders/ideas/wiki/DAO-idea-template)
+
+##### Co-create
+
+* [Basic DAO proposal template](https://github.com/ethereumbuilders/proposals/wiki/basic-DAO-template)
+* [Basic DAPP proposal template](https://github.com/ethereumbuilders/proposals/wiki/Basic-DAPP-template) 
+
+#### Contribute and support
 
 * Go to [the ideas board](https://github.com/ethereumbuilders/ideas#boards "ethereum.builders/ideas") for concepts in idea stages
 * Go to [the proposal board](https://github.com/ethereumbuilders/proposals#boards "ethereum.builders/proposals") for concepts in proposal stages
 * Go to [our projects board](https://github.com/ethereumbuilders/projects#boards "ethereum.builders/projects") for concepts in development stages
 
-
-### Accelerate the creation of **quality** content and documentation
+#### Accelerate the creation of **quality** content and documentation
 
 Either via tips or bounties you can incentivize the creation of the content (blogpost, screencast, tutorial) or documentation for the applications and topics that excite you! You're now a co-creator of a new _Internet_, through GitHub, a browser extension and Bitcoin. How cool is that? 
 
@@ -61,7 +71,7 @@ Bounties are an excellent way to get things done. Make sure to follow the format
 
 Here's an [article](http://blog.bountysource.com/post/89776164469/waffle-bountysource-attracting-open-source-community ) showing how an integration between a different (but similar) product and github works for bounties. Will make our own example soon.
 
-### How to create bounties
+#### How to create bounties
 
 **1.** Go to one of the boards, or create a new one. 
 
@@ -77,7 +87,7 @@ Here's an [article](http://blog.bountysource.com/post/89776164469/waffle-bountys
 
 *More info on tasklists can be found [here](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments)*
 
-### How to pay the bounties?
+#### How to pay the bounties?
 
 Easy! At delivery, mention the @username in a comment together with @changetip and the specific amount that you want to send. For example "@changetip send 0.01 BTC to @username".
 
