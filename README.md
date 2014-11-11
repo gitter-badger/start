@@ -1,5 +1,6 @@
 Welcome home, ethereum builder!
 =====
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ethereumbuilders/start?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is a community for like-minded individuals, passionate about ethereum and the possibilities it opens. This is a community for people like you, that like to create and experiment. However, the problem so far has been the lack of good coordination and collaboration in the ethereum builders community as a whole. 
 
 This initiative represents a _working prototype_ of something that could become a full fledged extension and ethereum application in the near future, with enough support. We start small, with a Chrome extension, a GitHub account and Bitcoin. With these 3 ingredients we can already begin working on it and other ideas as well.
