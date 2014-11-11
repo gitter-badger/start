@@ -21,6 +21,10 @@ Please read these two articles if you want to understand more about how this wor
 
 *Please note that you __need__ to install the zenhub extension in order to view and use GitHub as described in this guide. 
 
+Now, a new tab appears on your GitHub page called "board". This is how it should look like:
+
+![Boards on GitHub via ZenHub](https://camo.githubusercontent.com/c653bdc5842cf262547739eeca8d620fe49754e1/68747470733a2f2f7777772e7a656e6875622e696f2f626c6f672f636f6e74656e742f696d616765732f323031342f4f63742f4f7267616e697a65642d426f6172642e6a7067)
+
 ### Step two. Tokenize GitHub comments.
 
 A token of appreciation goes a long way! Mention the lucky @username in a comment together with @changetip and the specific amount that you want to send.
@@ -33,12 +37,14 @@ Here's how to get you started:
 
 **2.** Reward programmers for their effort by simply mentioning their @username in a comment together with @changetip and the specific amount that you want to send. For example "@changetip send 0.01 BTC to @username".
 
-**3.** Enjoy the warm, fuzzy feeling for contributing to something that matters to you.
+![Here's how it should look like](https://camo.githubusercontent.com/62df85ca0273b075614a36ac7c0bf067f59a5752/68747470733a2f2f692e696d6775722e636f6d2f4d6644613031532e706e67)
+
+**3.** Enjoy the warm, fuzzy feeling for contributing to something world-changing :)
 
 
 That's it, you're set. Let's get to the next step.
 
-### Step three. Support the initiatives and applications you'd like to see built!
+### Step three. Create, contribute or support! GitHub is your playing ground.
 
 * Go to [the ideas board](https://github.com/ethereumbuilders/ideas#boards "ethereum.builders/ideas") for concepts in idea stages
 * Go to [the proposal board](https://github.com/ethereumbuilders/proposals#boards "ethereum.builders/proposals") for concepts in proposal stages
