@@ -21,7 +21,9 @@ Please read these two articles if you want to understand more about how this wor
 
 *Please note that you __need__ to install the zenhub extension in order to view and use GitHub as described in this guide. 
 
-Now, a new tab appears on your GitHub page called "board". This is how it should look like:
+Now, a new tab appears on your GitHub page called "board". Each new issue becomes a card on the zenhub board
+
+This is how it should look like:
 
 ![Boards on GitHub via ZenHub](https://camo.githubusercontent.com/c653bdc5842cf262547739eeca8d620fe49754e1/68747470733a2f2f7777772e7a656e6875622e696f2f626c6f672f636f6e74656e742f696d616765732f323031342f4f63742f4f7267616e697a65642d426f6172642e6a7067)
 
@@ -43,7 +45,15 @@ Here's how to get you started:
 
 That's it, you're set. Let's get to the next step.
 
-### Step three. Ideate, co-create and support! GitHub is your playing ground.
+### Step three. GitChat.
+
+Each issue now becomes also a chatroom.
+
+https://github.com/gitrun/chat
+
+http://chat.gitrun.com/room/gitrun/chat/4
+
+### Step four. Ideate, co-create and support! GitHub is your playing ground.
 
 ##### Ideate
 
