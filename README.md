@@ -1,8 +1,8 @@
 Welcome home, ethereum builder!
 =====
-This is a community for like-minded individuals, passionate about ethereum and the possibilities it opens. This is a community for people like you, that like to create and experiment. You are welcome to experiment here, so throw your craziest of ideas on the boards __after__ following the quick start guide bellow.
+This is a community for like-minded individuals, passionate about ethereum and the possibilities it opens. This is a community for people like you, that like to create and experiment. You are welcome to experiment here, so throw your craziest of ideas on the boards __after__ following the quick start guide bellow!
 
-## Quick start
+### Step one. Supercharge GitHub.
 
 Here's how you can transform your usual GitHub account into a powerful project management tool in two steps.
 
@@ -11,10 +11,13 @@ Here's how you can transform your usual GitHub account into a powerful project m
 **2.** Connect your GitHub account with Zenhub. 
 * You can check if everything went okay by checking [your Github application settings](https://github.com/settings/applications). You should see ZenHub as one of the authorized applications.
 
+Please read these two articles if you want to understand more about how this works:
+* [Getting started with ZenHub](https://www.zenhub.io/blog/getting-started-with-zenhub/)
+* [Supercharge GitHub Workflows](https://www.zenhub.io/blog/supercharge-github-workflows-introducing-zenhub-part-i/)
 
 *Please note that you __need__ to install the zenhub extension in order to view and use GitHub as described in this guide. 
 
-## Support the initiatives and applications you'd like to see built!
+### Step two. Tokenize GitHub comments.
 
 A token of appreciation goes a long way! Mention the lucky @username in a comment together with @changetip and the specific amount that you want to send.
 
@@ -28,9 +31,10 @@ Here's how to get you started:
 
 **3.** Enjoy the warm, fuzzy feeling for contributing to something that matters to you.
 
+
 That's it, you're set. Let's get to the next step.
 
-## Where's stuff happening?
+### Step three. Support the initiatives and applications you'd like to see built!
 
 * Go to [the ideas board](https://github.com/ethereumbuilders/ideas#boards "ethereum.builders/ideas") for concepts in idea stages
 * Go to [the proposal board](https://github.com/ethereumbuilders/proposals#boards "ethereum.builders/proposals") for concepts in proposal stages
