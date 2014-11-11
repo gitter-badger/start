@@ -63,7 +63,9 @@ Here's an [article](http://blog.bountysource.com/post/89776164469/waffle-bountys
 
 - [x] Create checklists by typing "- [ ]" at the begining of your sentences. You can mark them as done by inserting an X (i.e. - [X]) in order to track the progress in an easy way. 
 
-More info on tasklists can be found [here](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments)
+*[Here is a markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to help you format the description*
+
+*More info on tasklists can be found [here](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments)*
 
 ### How to pay the bounties?
 
